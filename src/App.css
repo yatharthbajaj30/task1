@@ -1,0 +1,16 @@
+@media only screen and (max-device-width: 480px) {
+  img {
+    display: none;
+  }
+}
+
+@media only screen 
+  and (max-device-width: 480px) {
+  .containerchat {
+    display: none;
+  }
+}
+/* Add this to your project's CSS file */
+#replitBadge {
+  display: none;
+}

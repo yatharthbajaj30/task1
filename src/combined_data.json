@@ -1,0 +1,152 @@
+[{
+  
+    "Unnamed: 0": "",
+    "Transformer - Bushing C1 Tests": "",
+    "Unnamed: 1": "ITC",
+    "Unnamed: 2": "Temp Corr. Table"
+  },
+  {
+    "Unnamed: 0": "DIRECTTest Bushing Nameplate",
+    "Transformer - Bushing C1 Tests": "DISSIPATION FACTOR % Test TEST Capacitance",
+    "Unnamed: 1": "",
+    "Unnamed: 2": ""
+  },
+  {
+    "Unnamed: 0": "%VDFNo. IRDsg. SERIAL # CAT. #",
+    "Transformer - Bushing C1 Tests": "DFR Mode PF Cap. (pF) kV C (pF) Measured @ 20\u00b0C Corr Factor",
+    "Unnamed: 1": "mA WATTS",
+    "Unnamed: 2": ""
+  },
+  {
+    "Unnamed: 0": "11 1U NA",
+    "Transformer - Bushing C1 Tests": "UST-R 10.00 153.04 0.74 0.82 1.100",
+    "Unnamed: 1": "0.4808 0.0357",
+    "Unnamed: 2": "0.04 G"
+  },
+  {
+    "Unnamed: 0": "12 1V NA",
+    "Transformer - Bushing C1 Tests": "UST-R 10.00 153.16 1.01 1.11 1.100",
+    "Unnamed: 1": "0.4807 0.0487",
+    "Unnamed: 2": "0.05 I"
+  },
+  {
+    "Unnamed: 0": "13 1W NA",
+    "Transformer - Bushing C1 Tests": "UST-R 10.00 151.24 0.91 1.00 1.100",
+    "Unnamed: 1": "0.4746 0.0432",
+    "Unnamed: 2": "0.04 I"
+  },
+  {
+    "Unnamed: 0": "14 N/A",
+    "Transformer - Bushing C1 Tests": "UST-R 10.00",
+    "Unnamed: 1": "",
+    "Unnamed: 2": ""
+  },
+  {
+    "Unnamed: 0": "15 2U",
+    "Transformer - Bushing C1 Tests": "UST-R 6.00",
+    "Unnamed: 1": "",
+    "Unnamed: 2": ""
+  },
+  {
+    "Unnamed: 0": "16 2V",
+    "Transformer - Bushing C1 Tests": "UST-R 6.00",
+    "Unnamed: 1": "",
+    "Unnamed: 2": ""
+  },
+  {
+    "Unnamed: 0": "17 2W",
+    "Transformer - Bushing C1 Tests": "UST-R 6.00",
+    "Unnamed: 1": "",
+    "Unnamed: 2": ""
+  },
+  {
+    "Unnamed: 0": "18 2N",
+    "Transformer - Bushing C1 Tests": "UST-R 6.00",
+    "Unnamed: 1": "",
+    "Unnamed: 2": ""
+  },
+  {
+    "Unnamed: 0": "19",
+    "Transformer - Bushing C1 Tests": "UST-R",
+    "Unnamed: 1": "",
+    "Unnamed: 2": ""
+  },
+  {
+    "Unnamed: 0": "DIRECTTest Bushing Nameplate",
+    "Transformer - Bushing C2 Tests": "DISSIPATION FACTOR % Test TEST Capacitance",
+    "Unnamed: 1": ""
+  },
+  {
+    "Unnamed: 0": "%VDFNo. IRDsg. SERIAL # CAT. #",
+    "Transformer - Bushing C2 Tests": "Mode PF Cap. (pF) kV C (pF) Measured @ 20\u00b0C Corr Factor",
+    "Unnamed: 1": "mA WATTS"
+  },
+  {
+    "Unnamed: 0": "20 1U NA",
+    "Transformer - Bushing C2 Tests": "GST-GND 0.50 322.08 2.13 2.34 1.100",
+    "Unnamed: 1": "0.0504 0.0005 0.02 D"
+  },
+  {
+    "Unnamed: 0": "21 1V NA",
+    "Transformer - Bushing C2 Tests": "GST-GND 0.50 323.55 1.79 1.97 1.100",
+    "Unnamed: 1": "0.0507 0.0005 0.01 I"
+  },
+  {
+    "Unnamed: 0": "22 1W NA",
+    "Transformer - Bushing C2 Tests": "GST-GND 0.50 333.95 2.05 2.26 1.100",
+    "Unnamed: 1": "0.0525 0.0005 0.03 D"
+  },
+  {
+    "Unnamed: 0": "23 N/A",
+    "Transformer - Bushing C2 Tests": "UST-B 0.50",
+    "Unnamed: 1": ""
+  },
+  {
+    "Unnamed: 0": "24 2U",
+    "Transformer - Bushing C2 Tests": "UST-B 0.50",
+    "Unnamed: 1": ""
+  },
+  {
+    "Unnamed: 0": "25 2V",
+    "Transformer - Bushing C2 Tests": "UST-B 0.50",
+    "Unnamed: 1": ""
+  },
+  {
+    "Unnamed: 0": "26 2W",
+    "Transformer - Bushing C2 Tests": "UST-B 0.50",
+    "Unnamed: 1": ""
+  },
+  {
+    "Unnamed: 0": "27 2N",
+    "Transformer - Bushing C2 Tests": "UST-B 0.50",
+    "Unnamed: 1": ""
+  },
+  {
+    "NOTE: SHORT EACH WINDING ON ITSELF": "INSULATION RATING KEY",
+    "Unnamed: 0": "H",
+    "Unnamed: 1": "=",
+    "Unnamed: 2": "HIGH VOLTAGE WINDING",
+    "Unnamed: 3": ""
+  },
+  {
+    "NOTE: SHORT EACH WINDING ON ITSELF": "G = GOOD",
+    "Unnamed: 0": "L",
+    "Unnamed: 1": "=",
+    "Unnamed: 2": "LOW VOLTAGE WINDING",
+    "Unnamed: 3": "EQUIVALENT"
+  },
+  {
+    "NOTE: SHORT EACH WINDING ON ITSELF": "D = DETERIORATED",
+    "Unnamed: 0": "G",
+    "Unnamed: 1": "=",
+    "Unnamed: 2": "GROUND",
+    "Unnamed: 3": "CIRCUIT"
+  },
+  {
+    "NOTE: SHORT EACH WINDING ON ITSELF": "I = INVESTIGATE",
+    "Unnamed: 0": "N",
+    "Unnamed: 1": "=",
+    "Unnamed: 2": "NEUTRAL BUSHING",
+    "Unnamed: 3": ""
+  }
+]
