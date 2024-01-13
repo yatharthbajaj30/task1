@@ -176,7 +176,9 @@ export default function Dashboard() {
                     height: 240,
                   }}
                 >
+                  <div style={{margin:'auto'}}>
                   <DropZone />
+                  </div>
                 </Paper>
               </Grid>
               
